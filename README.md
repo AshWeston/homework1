@@ -10,7 +10,7 @@ I have provided commentary on changes I have made within the html and css files.
 
  
 
-You can click on this link to view the updates I have made.   
+You can click on this link to view the updates I have made.  https://ashweston.github.io/homework1/ 
 
   
 

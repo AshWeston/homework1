@@ -1,5 +1,5 @@
-# homework1
-First Assignment
+
+Code Re-factor
   
 
 The purpose of this task was to refactor the existing code on a site to make it more accessible, following semantic html structure, and consolidating the css file.  
